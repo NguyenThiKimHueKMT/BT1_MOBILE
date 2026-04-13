@@ -10,17 +10,49 @@ E. TRIỂN KHAI (LEVEL TEST) ỨNG DỤNG
 
    <img width="1204" height="245" alt="image" src="https://github.com/user-attachments/assets/a21f3771-05eb-4c8c-b63f-60c34b653e52" />
    
-4. KIỂM TRA TỪNG SERVICE ĐỘC LẬP QUA IP VÀ PORT
+a) KIỂM TRA TỪNG SERVICE ĐỘC LẬP QUA IP VÀ PORT
 
    <img width="1917" height="798" alt="image" src="https://github.com/user-attachments/assets/fb3e8885-192c-401b-9198-55e7c04c48a0" />
 
-Nginx Web  
+b)Nginx Web  
 
 <img width="1000" height="673" alt="image" src="https://github.com/user-attachments/assets/1c4d6677-c47c-4661-9829-f7d9ef500afb" />  
 
-c) Flask API   
+c) cấu hình function 
 
-<img width="1009" height="696" alt="image" src="https://github.com/user-attachments/assets/8f34d1cb-6721-489e-b01f-a7520937e1d4" />  
+<img width="1542" height="946" alt="image" src="https://github.com/user-attachments/assets/0aed67dc-7ecd-442d-8d81-1adedf89afc2" />    
+
+d) Test API Node-red trực tiếp  
+
+<img width="1696" height="810" alt="image" src="https://github.com/user-attachments/assets/6b651571-4208-4c2a-8853-9f5cbf6a097c" />  
+
+5. TẠO API GET ĐƠN GIẢN TRONG NODE-RED  
+a) Kéo 3 Node (http in, function, http response)
+
+<img width="1524" height="951" alt="image" src="https://github.com/user-attachments/assets/70fe22c1-3928-45a5-97ea-4752431a2ec4" />    
+
+b) Cấu hình http in  
+
+Method: GET  
+URL: /hello  
+
+<img width="804" height="484" alt="image" src="https://github.com/user-attachments/assets/c6dc2362-4a33-47ab-ab6e-4af86c72b5e7" />    
+c) Test API Node-red trực tiếp  
+
+6. KIỂM TRA API QUA Nginx  
+a) Trường hợp A: /api đang trỏ sang Node-RED
+
+b) Trường hợp B: /api đang trỏ sang Flask API  
+
+7. SỬA: ./myweb/index.html ĐỂ DÙNG API ĐÃ KHAI BÁO PROXY_PASS
+Mở file: index.html
+nano ~/myapp/myweb/index.html
+
+
+
+
+
+
 
 
 
