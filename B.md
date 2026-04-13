@@ -1,4 +1,4 @@
-<img width="917" height="533" alt="image" src="https://github.com/user-attachments/assets/ebf1281f-c7a5-4467-a09f-cc8e91c35776" />B. CÀI ĐẶT UBUNTU VÀ DOCKER  
+B. CÀI ĐẶT UBUNTU VÀ DOCKER  
 1. Cài đặt UBUNTU 24.04.4 LTS
 2. a) Kiểm tra Hyper - V
 Nhấn Win + R -> Gõ: optionalfeatures .
