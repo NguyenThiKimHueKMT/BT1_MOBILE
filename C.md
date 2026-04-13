@@ -26,6 +26,16 @@ chay lệnh: docker compose up -d
 
 <img width="1102" height="642" alt="image" src="https://github.com/user-attachments/assets/4f0da935-5417-4f98-b614-9d0d95ee8ab8" />  
 
+a) Tạo password hash  
+
+<img width="1104" height="641" alt="image" src="https://github.com/user-attachments/assets/e5fdd66b-272f-40b4-b4f6-6dfe09659a99" />  
+
+b) Mở file settings.js  
+nano ~/myapp/nodered/settings.js  
+
+<img width="1099" height="642" alt="image" src="https://github.com/user-attachments/assets/e8d8bf13-2f4d-4fb3-a210-855f1c99ba3b" />  
+
+
 
 
 
