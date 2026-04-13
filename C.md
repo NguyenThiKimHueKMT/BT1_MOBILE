@@ -35,6 +35,19 @@ nano ~/myapp/nodered/settings.js
 
 <img width="1099" height="642" alt="image" src="https://github.com/user-attachments/assets/e8d8bf13-2f4d-4fb3-a210-855f1c99ba3b" />  
 
+Sau khi sửa phần module.exports = { }  
+
+<img width="1232" height="729" alt="image" src="https://github.com/user-attachments/assets/a649a836-162a-4c52-b85a-1b2c12214594" />  
+
+nodered  
+
+![187762e3828503db5a94](https://github.com/user-attachments/assets/323919b9-77f9-4f06-b19d-d434fea8249c)  
+
+
+<img width="1547" height="635" alt="image" src="https://github.com/user-attachments/assets/feb51101-ffac-483e-bd41-8302199a3f7a" />  
+
+
+
 
 
 
