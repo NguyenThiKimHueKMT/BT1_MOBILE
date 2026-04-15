@@ -37,16 +37,27 @@ Method: GET
 URL: /hello  
 
 <img width="804" height="484" alt="image" src="https://github.com/user-attachments/assets/c6dc2362-4a33-47ab-ab6e-4af86c72b5e7" />    
-c) Test API Node-red trực tiếp  
+c) Test API Node-red trực tiếp    
+<img width="1624" height="861" alt="image" src="https://github.com/user-attachments/assets/45415b32-7829-4d23-9b3f-e1c75365f9ab" />  
 
 6. KIỂM TRA API QUA Nginx  
 a) Trường hợp A: /api đang trỏ sang Node-RED
 
 b) Trường hợp B: /api đang trỏ sang Flask API  
 
-7. SỬA: ./myweb/index.html ĐỂ DÙNG API ĐÃ KHAI BÁO PROXY_PASS
-Mở file: index.html
+7. SỬA: ./myweb/index.html ĐỂ DÙNG API ĐÃ KHAI BÁO PROXY_PASS  
+Mở file: index.html  
 nano ~/myapp/myweb/index.html
+<img width="1106" height="639" alt="image" src="https://github.com/user-attachments/assets/39963425-8ddf-4775-97d7-f567f3f26c7e" />
+
+Kết quả  
+<img width="1625" height="851" alt="image" src="https://github.com/user-attachments/assets/eabbdd00-7945-4e39-a917-51037d45dae3" />  
+<img width="1570" height="843" alt="image" src="https://github.com/user-attachments/assets/d30b1894-0629-4f89-8574-5882636b5b75" />  
+
+
+
+
+
 
 
 
